@@ -51,7 +51,7 @@ if (!$result) {
       <li class="nav-item">
         <a href="animals.php" class="nav-link">
           <i class="fas fa-cow"></i>
-          <span>Livestock</span>
+          <span>Animals</span>
         </a>
       </li>
       <li class="nav-item">

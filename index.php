@@ -1,6 +1,6 @@
 <?php
 session_start();
-// You can now access $_SESSION['userId'], $_SESSION['farmId'], etc.
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
